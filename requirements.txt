@@ -1,0 +1,12 @@
+torch>=1.10
+torchvision>=0.11
+timm==0.5.4
+transformers>=4.30
+opencv-python
+pillow
+numpy
+pandas
+tqdm
+pydensecrf
+scikit-learn
+matplotlib

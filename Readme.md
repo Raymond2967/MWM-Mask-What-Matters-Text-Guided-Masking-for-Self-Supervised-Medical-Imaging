@@ -1,4 +1,4 @@
-# MWM: Mask What Matters — Text-Guided Masking for Self-Supervised Medical Imaging
+# MWM: Mask What Matters — Text-Guided Masking for Self-Supervised Medical Imaging （PromptMask）
 
 MWM is a text-guided self-supervised learning framework for medical imaging. It performs prompt-based region localization and applies controllable, differentiated masking to align representation learning with diagnostically relevant regions.
 
